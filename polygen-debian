@@ -1,0 +1,9 @@
+#AUTOGEN=none
+URL=https://github.com/ltworf/polygen-debian.git
+#COMPILE=simple
+#CIS_INSTALL=polygen
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+BLD=$SRC
+AUTOGEN=none

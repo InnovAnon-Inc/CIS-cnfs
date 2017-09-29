@@ -1,0 +1,14 @@
+AUTOGEN=none
+COMPILE=cmake
+URL=https://seanrdev@bitbucket.org/seanrdev/LinkedList
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+
+DO_SHC_APPS=0
+DO_STRIP_APPS=0
+DO_STRIP_LIBS=0
+DO_PACK=0
+DO_ZMAN=0
+CFLAGS='-g'

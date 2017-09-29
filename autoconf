@@ -1,0 +1,4 @@
+AUTOGEN=autoreconf
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=git://git.sv.gnu.org/autoconf.git

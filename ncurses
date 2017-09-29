@@ -1,0 +1,5 @@
+AUTOGEN=autoreconf
+URL=git://ncurses.scripts.mit.edu/ncurses.git
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME

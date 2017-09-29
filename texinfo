@@ -1,0 +1,5 @@
+AUTOGEN=autoreconf
+#HOST_INSTALL=user
+PREFIX=$HOME
+AUTOGEN=autogen
+URL=https://git.savannah.gnu.org/git/texinfo.git

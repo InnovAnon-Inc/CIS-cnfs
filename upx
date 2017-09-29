@@ -1,0 +1,9 @@
+URL=https://github.com/upx/upx.git
+AUTOGEN=none
+TEST=none
+COMPILE=upx
+CIS_INSTALL=upx
+#HOST_INSTALL=user
+PREFIX=$HOME
+BLD=$SRC
+AUTOGEN=none

@@ -1,0 +1,4 @@
+AUTOGEN=none
+URL=git://git.buildroot.net/buildroot
+#HOST_INSTALL=user
+PREFIX=$HOME

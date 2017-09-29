@@ -1,0 +1,6 @@
+AUTOGEN=none
+CIS_INSTALL=simple
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/madler/zlib.git

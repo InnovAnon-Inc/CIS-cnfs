@@ -1,0 +1,5 @@
+AUTOGEN=autoreconf
+URL=git://git.savannah.gnu.org/gengetopt.git
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none

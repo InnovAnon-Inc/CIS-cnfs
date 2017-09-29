@@ -1,0 +1,5 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=git://github.com/MLton/mlton.git
+AUTOGEN=none

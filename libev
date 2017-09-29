@@ -1,0 +1,5 @@
+AUTOGEN=autogen
+URL=https://github.com/enki/libev.git
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME

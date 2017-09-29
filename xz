@@ -1,0 +1,4 @@
+AUTOGEN=autogen
+URL=http://git.tukaani.org/xz.git
+#HOST_INSTALL=user
+PREFIX=$HOME

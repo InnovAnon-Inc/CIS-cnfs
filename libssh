@@ -1,0 +1,8 @@
+AUTOGEN=none
+TEST=none
+COMPILE=cmake
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/substack/libssh.git
+CPPFLAGS=-Wno-dev

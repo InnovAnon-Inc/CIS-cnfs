@@ -1,0 +1,7 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=https://git.savannah.gnu.org/git/diffutils.git
+AUTOGEN=none
+#COMPILE=simple
+AUTOGEN=bootstrap

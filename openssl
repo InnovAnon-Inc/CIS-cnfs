@@ -1,0 +1,6 @@
+AUTOGEN=none
+URL=https://github.com/openssl/openssl.git
+TEST=none
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME

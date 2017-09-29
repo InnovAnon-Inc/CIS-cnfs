@@ -1,0 +1,11 @@
+AUTOGEN=none
+#COMPILE=cmake
+COMPILE=CMake
+#AUTOGEN=bootstrap
+#SRC=$REPO
+#BLD=$SRC
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/Kitware/CMake.git
+DO_TRYALL=0

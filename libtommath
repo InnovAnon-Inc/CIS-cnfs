@@ -1,0 +1,7 @@
+AUTOGEN=none
+URL=https://github.com/libtom/libtommath.git
+BLD=$SRC
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none

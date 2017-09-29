@@ -1,0 +1,8 @@
+AUTOGEN=none
+COMPILE=simple
+CIS_INSTALL=simple
+TEST=none
+BLD=$SRC
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=git://git.suckless.org/dwm

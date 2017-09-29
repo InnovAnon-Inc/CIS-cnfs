@@ -1,0 +1,4 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=https://github.com/ktakashi/scheme-concurrent.git

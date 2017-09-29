@@ -1,0 +1,7 @@
+AUTOGEN=none
+COMPILE=simple
+CIS_INSTALL=simple 
+URL=git://git.code.sf.net/p/gnu-efi/code
+BLD=$SRC
+#HOST_INSTALL=user
+PREFIX=$HOME

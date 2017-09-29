@@ -1,0 +1,6 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/the-tcpdump-group/tcpdump.git
+AUTOGEN=autoreconf
+CIS_INSTALL=simple
+TEST=none

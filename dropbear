@@ -1,0 +1,5 @@
+AUTOGEN=autoreconf
+URL=https://github.com/mkj/dropbear.git
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME

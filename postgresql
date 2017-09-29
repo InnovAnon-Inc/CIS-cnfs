@@ -1,0 +1,6 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://git.postgresql.org/git/postgresql.git
+TEST=none
+AUTOGEN=autoreconf
+COMPILE=$PROJECT

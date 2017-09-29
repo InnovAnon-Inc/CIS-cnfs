@@ -1,0 +1,6 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/mysql/mysql-server
+TEST=none
+AUTOGEN=none
+COMPILE=cmake

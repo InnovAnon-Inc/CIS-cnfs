@@ -1,0 +1,7 @@
+AUTOGEN=none
+COMPILE=cmake
+URL=https://github.com/doxygen/doxygen.git
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none

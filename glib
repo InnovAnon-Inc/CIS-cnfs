@@ -1,0 +1,7 @@
+AUTOGEN=autogen
+URL=https://github.com/GNOME/glib.git
+#HOST_INSTALL=user
+PREFIX=$HOME
+#COMPILE=$PROJECT
+BLD=$SRC
+TEST=none

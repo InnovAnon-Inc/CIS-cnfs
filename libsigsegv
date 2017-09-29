@@ -1,0 +1,4 @@
+AUTOGEN=autogen
+URL=https://git.savannah.gnu.org/git/libsigsegv.git
+#HOST_INSTALL=user
+PREFIX=$HOME

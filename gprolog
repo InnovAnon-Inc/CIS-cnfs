@@ -1,0 +1,5 @@
+AUTOGEN=none
+SCM=cvs
+URL=-d:pserver:anonymous@cvs.savannah.gnu.org:/web/gprolog
+#HOST_INSTALL=user
+PREFIX=$HOME

@@ -1,0 +1,4 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=file:///mnt/sdc2/srv/git/g-hOSt.git

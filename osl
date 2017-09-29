@@ -1,0 +1,7 @@
+AUTOGEN=none
+COMPILE=$PROJECT
+CIS_INSTALL=$PROJECT
+BLD=$SRC
+URL=git://git.tuebingen.mpg.de/osl.git
+#HOST_INSTALL=user
+PREFIX=$HOME

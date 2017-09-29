@@ -1,0 +1,7 @@
+AUTOGEN=none
+COMPILE=cmake
+CIS_INSTALL=simple
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/szechyjs/mbelib.git

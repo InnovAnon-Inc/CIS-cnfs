@@ -1,0 +1,8 @@
+AUTOGEN=none
+URL=https://github.com/Enucatl/polygen.git
+COMPILE=simple
+CIS_INSTALL=polygen
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+BLD=$SRC

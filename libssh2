@@ -1,0 +1,7 @@
+#AUTOGEN=autoreconf
+COMPILE=cmake
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/libssh2/libssh2.git
+MAKE_FLAGS=-j1

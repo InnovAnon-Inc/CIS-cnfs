@@ -1,0 +1,10 @@
+#SCM=wget
+AUTOGEN=none
+COMPILE=cmake
+#URL=http://sourceforge.net/projects/itpp/files/latest/download?source=files
+URL=https://git.code.sf.net/p/itpp/git
+CIS_INSTALL=simple
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+EXT=.tar.bz2

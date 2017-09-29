@@ -1,0 +1,7 @@
+SCM=hg
+#AUTOGEN=.bootstrap
+AUTOGEN=autoreconf
+URL=https://gmplib.org/repo/gmp
+#HOST_INSTALL=user
+PREFIX=$HOME
+DO_TRYALL=0

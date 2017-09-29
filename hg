@@ -1,0 +1,7 @@
+AUTOGEN=none
+SCM=hg
+URL=https://www.mercurial-scm.org/repo/hg-stable
+#HOST_INSTALL=user
+PREFIX=$HOME
+BLD=$SRC
+CIS_INSTALL=simple

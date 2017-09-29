@@ -1,0 +1,5 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/boostorg/boost
+TEST=none
+AUTOGEN=bootstrap.sh

@@ -1,0 +1,7 @@
+AUTOGEN=none
+COMPILE=cmake
+URL=https://github.com/szechyjs/dsd.git
+CIS_INSTALL=simple
+TEST=shc
+#HOST_INSTALL=user
+PREFIX=$HOME

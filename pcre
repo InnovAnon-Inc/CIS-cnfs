@@ -1,0 +1,6 @@
+AUTOGEN=autogen
+SCM=svn
+URL=svn://vcs.exim.org/pcre2/code/trunk
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none

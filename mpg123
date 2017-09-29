@@ -1,0 +1,5 @@
+AUTOGEN=autoreconf
+SCM=svn
+URL=svn://scm.orgis.org/mpg123/trunk
+#HOST_INSTALL=user
+PREFIX=$HOME

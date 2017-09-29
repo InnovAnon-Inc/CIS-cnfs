@@ -1,0 +1,5 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=git://git.code.sf.net/p/e2fsprogs/code
+AUTOGEN=autoreconf

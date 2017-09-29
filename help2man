@@ -1,0 +1,8 @@
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+AUTOGEN=autoreconf
+SCM=wget
+URL=http://mirror.thecodefactory.org/gnu/help2man/help2man-1.47.4.tar.xz
+DO_TRYALL=0
+CIS_INSTALL=simple

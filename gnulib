@@ -1,0 +1,8 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://git.savannah.gnu.org/git/gnulib.git
+AUTOGEN=none
+COMPILE=simple
+CIS_INSTALL=$PROJECT
+BLD=$SRC
+TEST=none

@@ -1,0 +1,4 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+AUTOGEN=bootstrap
+URL=https://git.savannah.gnu.org/git/automake.git

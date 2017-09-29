@@ -1,0 +1,6 @@
+SCM=hg
+AUTOGEN=autogen
+COMPILE=$PROJECT
+URL=https://www.s48.org/cgi-bin/hgwebdir.cgi/s48-stable
+#HOST_INSTALL=user
+PREFIX=$HOME

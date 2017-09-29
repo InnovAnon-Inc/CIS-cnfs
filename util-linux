@@ -1,0 +1,6 @@
+AUTOGEN=autogen
+URL=https://github.com/karelzak/util-linux.git
+#HOST_INSTALL=user
+PREFIX=$HOME
+CIS_INSTALL=autotools-sudo
+TEST=none

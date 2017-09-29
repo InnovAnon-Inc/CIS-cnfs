@@ -1,0 +1,3 @@
+URL=git://git.qemu-project.org/qemu.git
+#HOST_INSTALL=user
+PREFIX=$HOME

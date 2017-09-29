@@ -1,0 +1,7 @@
+URL=https://git.code.sf.net/p/otr/libotr
+#HOST_INSTALL=user
+PREFIX=$HOME
+#BLD=$SRC
+TEST=none
+AUTOGEN=autoreconf
+#COMPILE=glib

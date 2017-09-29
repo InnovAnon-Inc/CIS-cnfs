@@ -1,0 +1,4 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=git://anongit.freedesktop.org/xorg/proto/xcmiscproto

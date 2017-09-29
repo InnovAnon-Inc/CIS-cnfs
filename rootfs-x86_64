@@ -1,0 +1,4 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=http://git.sta.li/rootfs-x86_64

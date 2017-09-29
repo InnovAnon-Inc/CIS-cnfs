@@ -1,0 +1,5 @@
+AUTOGEN=autogen
+URL=https://github.com/ccache/ccache.git
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME

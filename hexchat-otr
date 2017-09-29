@@ -1,0 +1,6 @@
+URL=https://github.com/TingPing/hexchat-otr.git
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+AUTOGEN=autogen
+#COMPILE=glib

@@ -1,0 +1,5 @@
+AUTOGEN=autogen
+URL=https://github.com/neurobin/shc.git
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=$PROJECT

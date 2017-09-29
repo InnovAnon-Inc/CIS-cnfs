@@ -1,0 +1,7 @@
+AUTOGEN=none
+COMPILE=simple
+URL=https://github.com/Bill-Gray/lunar.git
+BLD=$SRC
+CIS_INSTALL=simple
+#HOST_INSTALL=user
+PREFIX=$HOME

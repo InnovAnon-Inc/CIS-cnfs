@@ -1,0 +1,5 @@
+AUTOGEN=autogen
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=https://github.com/JohannesBuchner/libnova.git

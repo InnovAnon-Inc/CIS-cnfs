@@ -1,0 +1,4 @@
+SCM=hg
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=http://hg.code.sf.net/p/clisp-clisp/clisp-clisp

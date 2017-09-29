@@ -1,0 +1,4 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+URL=https://github.com/puppylinux-woof-CE/woof-CE.git

@@ -1,0 +1,5 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/libcheck/check.git
+TEST=none
+AUTOGEN=autoreconf

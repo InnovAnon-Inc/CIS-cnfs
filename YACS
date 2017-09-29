@@ -1,0 +1,11 @@
+AUTOGEN=autogen
+URL=git://github.com/InnovAnon-Inc/YACS.git
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+DO_SHC_APPS=0
+DO_STRIP_APPS=0
+DO_STRIP_LIBS=0
+DO_PACK=0
+DO_ZMAN=0
+CFLAGS='-g'

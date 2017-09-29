@@ -1,0 +1,6 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+SCM=svn
+URL=http://svn.apache.org/repos/asf/apr/apr/trunk
+AUTOGEN=autoreconf
+TEST=none

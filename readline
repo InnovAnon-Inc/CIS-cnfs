@@ -1,0 +1,6 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://git.savannah.gnu.org/git/readline.git
+AUTOGEN=autoreconf
+#COMPILE=glib
+TEST=none

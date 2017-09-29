@@ -1,0 +1,5 @@
+AUTOGEN=bootstrap
+URL=git://git.savannah.gnu.org/libtool.git
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none

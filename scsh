@@ -1,0 +1,4 @@
+AUTOGEN=autoreconf
+URL=https://github.com/scheme/scsh.git
+#HOST_INSTALL=user
+PREFIX=$HOME

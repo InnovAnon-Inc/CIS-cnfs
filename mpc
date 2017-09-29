@@ -1,0 +1,4 @@
+AUTOGEN=autoreconf
+URL=https://scm.gforge.inria.fr/anonscm/git/mpc/mpc.git
+#HOST_INSTALL=user
+PREFIX=$HOME

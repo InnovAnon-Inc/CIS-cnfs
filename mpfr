@@ -1,0 +1,6 @@
+#HOST_INSTALL=user
+PREFIX=$HOME
+TEST=none
+SCM=svn
+URL=https://scm.gforge.inria.fr/anonscm/svn/mpfr/trunk
+AUTOGEN=autogen
