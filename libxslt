@@ -1,0 +1,4 @@
+URL=git://git.gnome.org/libxslt
+#HOST_INSTALL=user
+PREFIX=$HOME
+AUTOGEN=autogen

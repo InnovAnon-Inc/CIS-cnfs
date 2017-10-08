@@ -1,0 +1,12 @@
+AUTOGEN=autogen
+#TEST=test
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/InnovAnon-Inc/PArray.git
+DO_SHC_APPS=0
+DO_STRIP_APPS=0
+DO_STRIP_LIBS=0
+DO_PACK=0
+DO_ZMAN=0
+CFLAGS='-g'

@@ -1,0 +1,8 @@
+TEST=none
+#HOST_INSTALL=user
+PREFIX=$HOME
+URL=https://github.com/hashcat/hashcat.git
+AUTOGEN=none
+COMPILE=simple
+CIS_INSTALL=simple
+BLD=$SRC

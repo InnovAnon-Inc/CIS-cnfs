@@ -1,0 +1,7 @@
+URL=git://git.gnome.org/libxml2
+#HOST_INSTALL=user
+PREFIX=$HOME
+#AUTOGEN=none
+#DO_TRYALL=0
+#BLD=$SRC
+AUTOGEN=autogen

@@ -1,0 +1,6 @@
+URL=https://github.com/asciidoc/asciidoc.git
+#HOST_INSTALL=user
+PREFIX=$HOME
+AUTOGEN=autoreconf
+CIS_INSTALL=simple
+BLD=$SRC
